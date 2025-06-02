@@ -11,7 +11,10 @@
 Another significant advantage of Bootstrap is its extensive collection of pre-designed components, including navigation bars, buttons, modals, forms, and cards. These elements not only save development time but also ensure consistency in UI design.</p>
 
 <img src = "https://github.com/Amansinha110/-Bootstrap-Website/blob/master/Screenshot%202025-06-02%20011041.png">
-<a href = "https://amansinha110.github.io/-Bootstrap-Website/">img src = "https://github.com/Amansinha110/-Bootstrap-Website/blob/master/OIP.jpeg"></a>
+
+<a href = "https://amansinha110.github.io/-Bootstrap-Website/"><img src = "https://github.com/Amansinha110/-Bootstrap-Website/blob/master/OIP.jpeg"></a>
+
+<h1> Click Blue Button To See Website </h1>
 
 <h3>My Approach to Website Development</h3>
 <p>When developing a responsive website using Bootstrap, I follow a systematic approach:
